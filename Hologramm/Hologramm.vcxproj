@@ -82,8 +82,6 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Maskierung.cpp" />
     <ClCompile Include="PopEffekt.cpp" />
-    <ClCompile Include="projekt.cpp" />
-    <ClCompile Include="test.cpp" />
     <ClCompile Include="VideoManager.cpp" />
     <ClCompile Include="Webcameffekte.cpp" />
   </ItemGroup>
@@ -95,7 +93,6 @@
     <ClInclude Include="HoloEffekt.h" />
     <ClInclude Include="Maskierung.h" />
     <ClInclude Include="PopEffekt.h" />
-    <ClInclude Include="projekt.h" />
     <ClInclude Include="VideoManager.h" />
     <ClInclude Include="Webcameffekte.h" />
   </ItemGroup>
