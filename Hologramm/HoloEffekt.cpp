@@ -6,7 +6,7 @@ using namespace cv;
 HoloEffekt::HoloEffekt(int w, int h): 
 	videoWidth(w), 
 	videoHeight(h),
-	sourceImagePath("C:/Users/Esther/Desktop/pattern.png"),
+	sourceImagePath("../resources/pattern2.png"),
 	moveXCounter(0),
 	moveYCounter(0){
 		sourceImagePointer = new Mat(imread(sourceImagePath));		

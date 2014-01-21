@@ -98,14 +98,6 @@
     <ClInclude Include="VideoManager.h" />
     <ClInclude Include="Webcameffekte.h" />
   </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="Hologramm1.rc" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="C:\Users\Esther\Desktop\ghost.png" />
-    <None Include="C:\Users\Esther\Desktop\pattern2.png" />
-    <None Include="C:\Users\Esther\Desktop\slimer.png" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

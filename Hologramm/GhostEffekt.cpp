@@ -6,7 +6,7 @@ using namespace cv;
 GhostEffekt::GhostEffekt(int w, int h): 
 	videoWidth(w), 
 	videoHeight(h),
-	sourceImagePath("C:/Users/Esther/Desktop/ghost.png"),
+	sourceImagePath("../resources/ghost.png"),
 	moveXCounter(0),
 	moveYCounter(0){
 		sourceImagePointer = new Mat(imread(sourceImagePath));		

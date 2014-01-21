@@ -75,20 +75,4 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="Hologramm1.rc">
-      <Filter>Resource Files</Filter>
-    </ResourceCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="C:\Users\Esther\Desktop\ghost.png">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="C:\Users\Esther\Desktop\pattern2.png">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="C:\Users\Esther\Desktop\slimer.png">
-      <Filter>Resource Files</Filter>
-    </None>
-  </ItemGroup>
 </Project>
